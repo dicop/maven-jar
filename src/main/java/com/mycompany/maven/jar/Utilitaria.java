@@ -12,7 +12,7 @@ package com.mycompany.maven.jar;
 public class Utilitaria {
     
     public static void teste(){
-        System.out.println(" classe utilitária ----------------------");
+        System.out.println(" classe utilitária ---------------------- v2");
     }
     
 }
